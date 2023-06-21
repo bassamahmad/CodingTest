@@ -1,0 +1,26 @@
+*{
+    box-sizing: border-box;
+}
+:root{
+    font-size: 16px;
+}
+.page-wrapper{
+    width: 100%;
+    display: flex;
+    justify-content: flex-start;
+}
+.left-sidebar{
+    width: 25%;
+    background-color: black;
+    color: #fff;
+    height: 100vh;
+}
+.left-sidebar h3{
+    padding: 20px;
+}
+.content-page{
+    width: calc(100% - 25%);
+    background-color: aquamarine;
+    height: 100vh;
+    padding: 20px;
+}

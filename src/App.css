@@ -53,3 +53,6 @@
 .wrapper button:hover{
   cursor: pointer;
 }
+.custom-descriptions .ant-descriptions-item-content {
+  color: red; /* Change the color to your desired color */
+}
