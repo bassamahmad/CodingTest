@@ -1,2 +1,5 @@
 # CodingTest
-It's a coding test using React.Js
+Firstly Install React in your system
+Install Npm in your sysytem
+Install ant design
+install Axios
